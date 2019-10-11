@@ -1,3 +1,3 @@
 #!/bin/bash
-mkdir /home/test
+mkdir /data/testy
 echo 'hello'
